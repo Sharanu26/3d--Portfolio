@@ -11,7 +11,7 @@ export const Bio = {
     "https://drive.google.com/file/d/189Z7a07Yp9Pu3-BMoileoo-xGiOAVTz3/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/sharanaabasppa-halle-938b39218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   insta: "https://www.instagram.com/Sharanuhalle26/",
-  
+  facebook: "https://www.facebook.com/sharan.halle.9", 
 };
 
 export const skills = [
