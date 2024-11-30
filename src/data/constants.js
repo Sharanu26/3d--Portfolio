@@ -127,8 +127,7 @@ export const experiences = [
   
   
   {
-    id: 4,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
+ /flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
     role: "Android Developer",
     company: "DSC KIIT",
     date: "Nov2021 - Present",
@@ -147,7 +146,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://i.imghippo.com/files/wBcz7539S.jpg",
+    img: "https://i.postimg.cc/zBn5Nyjs/IMG-20241123-154719.jpg",
     school: "Genba Sopanarao Moze College of Engineering, Pune",
     date: "Oct 2021 - Sep 2025",
     grade: "7.33 CGPA",
@@ -156,7 +155,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://i.imghippo.com/files/rcn6069y.jpg",
+    img: "https://i.postimg.cc/CKnSvPfL/IMG-20241123-154743.jpg",
     school: "Shri Mahlsakant Junior College, Pune",
     date: "Apr 2019 - Apr 2021",
     grade: "76.81%",
@@ -165,7 +164,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://i.imghippo.com/files/Xkj5330mQk.jpg",
+    img: "https://i.postimg.cc/qvS31j78/IMG-20241123-151719.jpg",
     school: "St. Paul School, Pune",
     date: " Apr 2019",
     grade: "66.6%",
@@ -185,7 +184,7 @@ export const projects = [
     description:
     "Developed a Job Portal Website using ShadCN UI for a responsive and user-friendly interface,Implemented Clerk authentication to provide secure sign-up, login.Built features like job postings, application tracking, and profile management for seamless job-seeking and hiring workflows.",
     image:
-      "https://i.imghippo.com/files/ggz4530wjA.jpg",
+      "https://i.postimg.cc/025xg2J4/IMG-20241123-123402.jpg",
     tags: [
       "React Js",
       "Supabase",
@@ -203,7 +202,7 @@ export const projects = [
     description:
     "Created an advanced cryptocurrency tracking application with Reactjs and ChakraUI, integrating CoinGecko API for real-time data across 20+ currencies. Enhanced navigation efficiency by integrating React-Router and significantly improving overall application responsiveness and user experience.",
     image:
-      "https://i.imghippo.com/files/qgL3256HiU.jpg",
+      "https://i.postimg.cc/sfdDLrmF/IMG-20241123-123713.jpg",
     tags: ["React", "Axios", "React-router", "Chakra Ui"],
     category: "web app",
     github: "https://github.com/Sharanu26/Xcrypto-App",
@@ -217,7 +216,7 @@ export const projects = [
     description:
     "Developed a responsive and dynamic e-commerce web application using modern web technologies, hosted on Vercel. The platform features product browsing, cart management, and a seamless checkout process, designed for an intuitive user experience.",
     image:
-      "https://i.imghippo.com/files/Edp7091jUw.jpg",
+      "https://i.postimg.cc/XNk3DyXF/IMG-20241123-123543.jpg",
     tags: ["Javascript", "Reactjs", "Redux Toolkit" ],
     category: "web app",
     github: "https://github.com/Sharanu26/E-cart",
@@ -231,7 +230,7 @@ export const projects = [
     description:
     "Created an interactive and responsive music player using HTML, CSS, JavaScript.",
     image:
-    "https://i.imghippo.com/files/tppf5618R.jpg",
+    "https://i.postimg.cc/GdNmHBZw/IMG-20241123-123958.jpg",
     tags: ["Html", "Css", "JavaScript"],
     category: "web app",
     github: "https://github.com/Sharanu26/Music-player",
@@ -244,7 +243,7 @@ export const projects = [
     description:
     "Designed and developed a modern, responsive website for showcasing technology solutions and services using React.js, hosted on Vercel. The platform includes a professional landing page, service descriptions, and intuitive navigation to enhance user engagement",
       image:
-      "https://i.imghippo.com/files/pXZy4129vh.jpg",
+      "https://i.postimg.cc/0jPvy9Xb/IMG-20241123-124129.jpg",
     tags: ["React Js", "TailwindCss", "React-router-dom"],
     category: "web app",
     github: "https://github.com/Sharanu26/TechySoln-react",
